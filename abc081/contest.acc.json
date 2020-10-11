@@ -19,19 +19,31 @@
       "id": "abc081_b",
       "label": "B",
       "title": "Shift only",
-      "url": "https://atcoder.jp/contests/abc081/tasks/abc081_b"
+      "url": "https://atcoder.jp/contests/abc081/tasks/abc081_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
     },
     {
       "id": "arc086_a",
       "label": "C",
       "title": "Not so Diverse",
-      "url": "https://atcoder.jp/contests/abc081/tasks/arc086_a"
+      "url": "https://atcoder.jp/contests/abc081/tasks/arc086_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "arc086_b",
       "label": "D",
       "title": "Non-decreasing",
-      "url": "https://atcoder.jp/contests/abc081/tasks/arc086_b"
+      "url": "https://atcoder.jp/contests/abc081/tasks/arc086_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
     }
   ]
 }
